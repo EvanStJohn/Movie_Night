@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>tv-icon.png</file>
+        <file>clapperboard.png</file>
+        <file>lights.png</file>
+        <file>input.txt</file>
+    </qresource>
+</RCC>
